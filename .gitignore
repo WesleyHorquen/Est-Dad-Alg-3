@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+
+!/ArvoreHeap/
+!/ArvoreHeap/Exercicio/
+!/ArvoreHeap/Exercicio/arvoreHeap.c
+!/ArvoreHeap/Exercicio/exercicios.png
+
+!/RevisaoArvoreBinaria/
+!/RevisaoArvoreBinaria/main.c
+!/RevisaoArvoreBinaria/Exercicios/
+!/RevisaoArvoreBinaria/Exercicios/main.c
